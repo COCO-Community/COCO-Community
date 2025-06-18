@@ -11,3 +11,6 @@ having missed out of the golden Bitcoin Era of 50BTC block rewards and knowing t
 ⚡ Fun fact? We are arguably the world's first blockchain enabled online marketplace built out of East Africa
 We have a physical office at Norssken House Kigali, Rwanda where we also run our Blockchain Academy
 Our Lead facilitator is MOJO (Daniel Emeka Nwachukwu) A BLockchain Council Cerified Blockchain and Crypto Expert with over a decade of crypto experience
+The $COCO Governance token is a collection of 99 COCO Gang NFTS on CORE Blockchain, holders share 35% of BTC Mining profits and 40% of COCOMart marketplace profits
+The Max Supply of $COCO is 2,100,000 which is just 10% of BITCOIN Maximum supply
+$COCO is listed on coingecko and and can be found here: https://www.coingecko.com/en/coins/coco-community

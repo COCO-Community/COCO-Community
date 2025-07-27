@@ -58,10 +58,10 @@ $COCO - a community utility token, designed to provide u with; Knowledge, Wealth
 
 <p align="left">
 <a href="https://x.com/CoredaoCOCO">
-<img src="https://i.ibb.co/b7c32xC/xfollow.png?style=social" alt=""/>
+X (Twitter)
 </a>
 <a href="https://t.me/coredaococo_official">
-<img src="https://i.ibb.co/xsjx5Nc/ast.png.png?style=social" alt=""/>
+Telegram
 </a>
 </p>
 
